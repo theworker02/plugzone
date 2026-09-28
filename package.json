@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/plugzone",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Plug URLs and zone query parts with stable normalization.",
+  "bin": {
+    "plugzone": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/plugzone.git"
+  },
+  "homepage": "https://theworker02.github.io/plugzone/",
+  "keywords": [
+    "plug",
+    "zone",
+    "url",
+    "cli",
+    "toolkit"
+  ]
+}
